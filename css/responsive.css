@@ -1,0 +1,265 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .content-header h2{
+    font-size: 32px;
+    line-height: 1.2
+  }
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 990px) {
+  .navbar-nav{
+    background-color: #FFFFFF;
+    margin-top: 10px;
+  }
+  .navbar-nav .nav-item{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+    padding: 10px 0;
+  }
+  .content-header {
+    height: 110vh;
+    margin-top: 2.5rem;
+  }
+  .content-header h2{
+    font-size: 32px;
+    line-height: 1.2
+  }
+  .content-header .text{
+    padding-left: 0!important;
+  }
+  .content-header .text h1{
+    margin-bottom: 0;
+  }
+  .content-header .scroll-button{
+    padding-top: 100px;
+  }
+  .content-header .img-content-header{
+    text-align: center;
+  }
+  .content-header .img-content-header img{
+    width: 400px !important;
+  }
+  .content-header p{
+    font-size: 18px;
+  }
+  .what-is-cava{
+    height: 170vh;
+  }
+  .what-is-cava .text {
+    margin-top: 0px;
+  }
+  .what-is-cava .text h1 {
+    font-size: 32px;
+  }
+  .what-is-cava .text p {
+    font-size: 16px;
+  }
+  .benefit{
+    height: 170vh;
+  }
+  .download {
+    text-align: center;
+  }
+  .download .cta{
+    text-align: center;
+  }
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .content-header h2{
+    font-size: 32px;
+    line-height: 1.2
+  }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .navbar-nav{
+    background-color: #FFFFFF;
+    margin-top: 10px;
+  }
+  .navbar-nav .nav-item{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+    padding: 10px 0;
+  }
+  .content-header {
+    height: 110vh;
+    margin-top: 2.5rem;
+  }
+  .content-header h2{
+    font-size: 32px;
+    line-height: 1.2
+  }
+  .content-header .text{
+    padding-left: 0!important;
+  }
+  .content-header .text h1{
+    margin-bottom: 0;
+  }
+  .content-header .scroll-button{
+    padding-top: 100px;
+  }
+  .content-header .img-content-header{
+    text-align: center;
+  }
+  .content-header .img-content-header img{
+    width: 400px !important;
+  }
+  .content-header p{
+    font-size: 18px;
+  }
+  .what-is-cava{
+    height: 140vh;
+  }
+  .what-is-cava .text {
+    margin-top: 0px;
+  }
+  .what-is-cava .text h1 {
+    font-size: 32px;
+  }
+  .what-is-cava .text p {
+    font-size: 16px;
+  }
+  .feature img{
+    width: 70px !important;
+  }
+  .benefit{
+    height: 210vh;
+    background-position: bottom
+  }
+  .benefit-list{
+    margin-bottom: 15px;
+  }
+  .benefit-list img{
+    width: 150px;
+  }
+  .benefit-list h3{
+    font-size: 22px;
+  }
+  .benefit p{
+    font-size: 16px;
+  }
+  .more-than-event h2{
+    font-size: 28px;
+  }
+  .more-than-event h2{
+    font-size: 28px;
+  }
+  .download {
+    text-align: center;
+  }
+  .download .cta{
+    text-align: center;
+  }
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .navbar-nav{
+    background-color: #FFFFFF;
+    margin-top: 10px;
+  }
+  .navbar-nav .nav-item{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.06);
+    padding: 10px 0;
+  }
+  .content-header {
+    height: 110vh;
+    margin-top: 2.5rem;
+  }
+  .content-header h2{
+    font-size: 32px;
+    line-height: 1.2
+  }
+  .content-header .text{
+    padding-left: 0!important;
+  }
+  .content-header .text h1{
+    margin-bottom: 0;
+  }
+  .content-header .scroll-button{
+    padding-top: 100px;
+  }
+  .content-header .img-content-header{
+    text-align: center;
+  }
+  .content-header .img-content-header img{
+    width: 400px !important;
+  }
+  .content-header p{
+    font-size: 18px;
+  }
+  .what-is-cava{
+    height: 140vh;
+  }
+  .what-is-cava .text {
+    margin-top: 0px;
+  }
+  .what-is-cava .text h1 {
+    font-size: 32px;
+  }
+  .what-is-cava .text p {
+    font-size: 16px;
+  }
+  .feature img{
+    width: 70px !important;
+  }
+  .benefit{
+    height: 210vh;
+    background-position: bottom
+  }
+  .benefit-list{
+    margin-bottom: 15px;
+  }
+  .benefit-list img{
+    width: 150px;
+  }
+  .benefit-list h3{
+    font-size: 22px;
+  }
+  .benefit p{
+    font-size: 16px;
+  }
+  .more-than-event h2{
+    font-size: 28px;
+  }
+  .more-than-event h2{
+    font-size: 28px;
+  }
+  .download {
+    text-align: center;
+  }
+  .download .cta{
+    text-align: center;
+  }
+}
