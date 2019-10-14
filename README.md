@@ -1,3 +1,3 @@
-# Landing Page Cava
+# Landing Page Syalog
 
-Landing Page for Cava.
+Landing Page for Syalog.
